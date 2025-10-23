@@ -37,3 +37,4 @@ Backend: Node.js with WebSocket / Firebase Realtime Database
 Optional: MongoDB or Firestore for document storage
 
 OUTPUT:
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b3197e75-a4bf-4d25-83b2-06542abef4ff" />
